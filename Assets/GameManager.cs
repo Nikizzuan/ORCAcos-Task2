@@ -12,7 +12,7 @@ public class GameManager : MonoBehaviourPunCallbacks
 {
      
     [Header("GameScene")]
-  
+  // save 
     private PhotonView view;
     public TextMeshProUGUI RandomNum;
     public TextMeshProUGUI playerInput;
